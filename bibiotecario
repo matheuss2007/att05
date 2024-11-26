@@ -1,0 +1,7 @@
+CREATE table tbbibliotecario(
+   bibliotecarioid int,
+   nome varchar(30),
+   cpf int,
+   idade int (30),
+   PRIMARY KEY (bibliotecarioid)
+   );
