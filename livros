@@ -1,0 +1,7 @@
+CREATE table tblivros(
+   livrosid int,
+   titulo varchar(30),
+   autor char,
+   genero char (30),
+   PRIMARY KEY (livrosid)
+   );
