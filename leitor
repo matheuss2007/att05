@@ -1,0 +1,7 @@
+ CREATE table tbleitor(
+   leitorid int,
+   nome varchar(30),
+   endereco int,
+   telefone int (30),
+   PRIMARY KEY (leitorid)
+   );
